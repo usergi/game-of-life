@@ -3,7 +3,7 @@ package com.wakaleo.gameoflife.domain;
 public enum Cell {
     LIVE_CELL("-"), DEAD_CELL(".");
 
-    private String symbol;
+    privat String symbol;
 
     private Cell(final String initialSymbol) {
         this.symbol = initialSymbol;
