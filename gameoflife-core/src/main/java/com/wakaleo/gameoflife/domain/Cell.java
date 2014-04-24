@@ -22,7 +22,7 @@ public enum Cell {
                 break;
             }
         }
-        return cellRepresentedBySymbol;
+        //return cellRepresentedBySymbol;
     }
 
     public String getSymbol() {
